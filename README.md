@@ -6,5 +6,7 @@
 - Object Detection Using Chainer
 - Smart Factory related field dataset (ex, tile sheet, ... etc)
 - SSD300 (Single Shot Multibox Detector 300 epochs)
+- Reference by https://github.com/Shenggan/BCCD_Dataset
+- Reference by https://japan-medical-ai.github.io/medical-ai-course-materials/notebooks/Blood_Cell_Detection.html
 
 - 2019/03/18 ~ 2019/04/30
