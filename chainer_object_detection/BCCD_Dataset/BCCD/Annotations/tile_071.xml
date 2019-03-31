@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>tile_detection_train_50</folder>
+<filename>tile_071.jpg</filename>
+<path>C:\Users\wbchoi\Downloads\tile_detection_train_50\tile_071.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>4032</width>
+    <height>3024</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name> fraction</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>702</xmin>
+        <ymin>1386</ymin>
+        <xmax>846</xmax>
+        <ymax>1595</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name> fraction</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3025</xmin>
+        <ymin>2434</ymin>
+        <xmax>3391</xmax>
+        <ymax>2721</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>scratch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1277</xmin>
+        <ymin>1488</ymin>
+        <xmax>2510</xmax>
+        <ymax>2278</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>scratch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1804</xmin>
+        <ymin>2434</ymin>
+        <xmax>2402</xmax>
+        <ymax>2793</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>scratch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1576</xmin>
+        <ymin>637</ymin>
+        <xmax>2175</xmax>
+        <ymax>1242</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>scratch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2504</xmin>
+        <ymin>110</ymin>
+        <xmax>3073</xmax>
+        <ymax>446</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>scratch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2846</xmin>
+        <ymin>589</ymin>
+        <xmax>3935</xmax>
+        <ymax>1344</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>scratch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3157</xmin>
+        <ymin>1500</ymin>
+        <xmax>3959</xmax>
+        <ymax>2278</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>tile_detection_train_50</folder>
+<filename>tile_068.jpg</filename>
+<path>C:\Users\wbchoi\Downloads\tile_detection_train_50\tile_068.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>4032</width>
+    <height>3024</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>scratch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1420</xmin>
+        <ymin>1392</ymin>
+        <xmax>2714</xmax>
+        <ymax>2703</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>scratch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1618</xmin>
+        <ymin>541</ymin>
+        <xmax>2426</xmax>
+        <ymax>1236</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>scratch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2546</xmin>
+        <ymin>110</ymin>
+        <xmax>3121</xmax>
+        <ymax>500</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>scratch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2856</xmin>
+        <ymin>544</ymin>
+        <xmax>3958</xmax>
+        <ymax>1263</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>scratch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2964</xmin>
+        <ymin>1419</ymin>
+        <xmax>3976</xmax>
+        <ymax>2269</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name> fraction</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>750</xmin>
+        <ymin>1392</ymin>
+        <xmax>899</xmax>
+        <ymax>1571</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name> fraction</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3031</xmin>
+        <ymin>2434</ymin>
+        <xmax>3420</xmax>
+        <ymax>2679</ymax>
+    </bndbox>
+</object>
+</annotation>

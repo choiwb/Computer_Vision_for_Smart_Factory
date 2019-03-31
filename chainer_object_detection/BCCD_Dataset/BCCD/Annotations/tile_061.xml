@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>tile_detection_train_50</folder>
+<filename>tile_061.jpg</filename>
+<path>C:\Users\wbchoi\Downloads\tile_detection_train_50\tile_061.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>4032</width>
+    <height>3024</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name> fraction</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>546</xmin>
+        <ymin>1601</ymin>
+        <xmax>965</xmax>
+        <ymax>2062</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name> fraction</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2115</xmin>
+        <ymin>2176</ymin>
+        <xmax>2450</xmax>
+        <ymax>2637</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>scratch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1522</xmin>
+        <ymin>589</ymin>
+        <xmax>3911</xmax>
+        <ymax>2098</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>scratch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3097</xmin>
+        <ymin>2218</ymin>
+        <xmax>3899</xmax>
+        <ymax>2901</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>scratch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>127</xmin>
+        <ymin>2386</ymin>
+        <xmax>894</xmax>
+        <ymax>2913</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>scratch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1568</xmin>
+        <ymin>2712</ymin>
+        <xmax>2406</xmax>
+        <ymax>2934</ymax>
+    </bndbox>
+</object>
+</annotation>
