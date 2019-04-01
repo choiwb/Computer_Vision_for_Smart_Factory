@@ -3,7 +3,8 @@
 - Real Time Object Tracking Using Pytorch & OpenCV
 - SORT (Simple Online Realtime Tracking)
 - YOLO-v3
-- Object Detection Using Chainer
+- Object Detection Using Chainer & Pytorch
+- Reference by http://cedro3.com/ai/pytorch-ssd-bccd/
 - Smart Factory related field dataset (ex, tile sheet, ... etc)
 - SSD300 (Single Shot Multibox Detector 300 epochs)
 - Reference by https://github.com/Shenggan/BCCD_Dataset
