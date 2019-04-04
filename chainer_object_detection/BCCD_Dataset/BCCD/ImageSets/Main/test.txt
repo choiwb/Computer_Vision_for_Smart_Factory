@@ -1,5 +1,0 @@
-tile_046
-tile_054
-tile_065
-tile_086
-tile_088
