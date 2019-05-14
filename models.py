@@ -226,7 +226,6 @@ class YOLOLayer(nn.Module):
             )
             return output
 
-
 class Darknet(nn.Module):
     """YOLOv3 object detection model"""
 
@@ -348,3 +347,4 @@ class Darknet(nn.Module):
                 conv_layer.weight.data.cpu().numpy().tofile(fp)
 
         fp.close()
+
